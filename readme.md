@@ -20,9 +20,9 @@
 </p>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=168; src="https://github-readme-stats.vercel.app/api?username=ChrissisCodeXD&show_icons=true&hide=issues&icon_color=C9D1D9&hide_border=true&title_color=C9D1D9&bg_color=0D1117&theme=tokyonight_duo&hide_border=true"></img>
+<img height=168; width=500; src="https://github-readme-stats.vercel.app/api?username=ChrissisCodeXD&show_icons=true&hide=issues&icon_color=C9D1D9&hide_border=true&title_color=C9D1D9&bg_color=0D1117&theme=tokyonight_duo&hide_border=true"></img>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img height=168; src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrissisCodeXD&layout=compact&bg_color=0D1117&theme=tokyonight_duo&hide_border=true"></img>
+<img height=168; width=500; src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrissisCodeXD&layout=compact&bg_color=0D1117&theme=tokyonight_duo&hide_border=true"></img>
 </a>
 </p>
