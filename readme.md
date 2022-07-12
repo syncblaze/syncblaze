@@ -1,5 +1,9 @@
 <h1 align="center"><pre>Chrissi | 変態#9999</pre></h1>
-
+<center>
+      <a href='discord.com/user/962874213948088410'>
+        <img src="https://discord.c99.nl/widget/theme-1/962874213948088410.png" style='padding: 5px'>
+      </a>
+    </center>
 
 # Languages
 
