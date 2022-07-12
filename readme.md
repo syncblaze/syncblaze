@@ -14,7 +14,7 @@
 </div>
 
 
-<hr>
+<hr></hr>
 <center>
         <img align="center" width=500; src="http://github-readme-streak-stats.herokuapp.com?user=ChrissisCodeXD&theme=tokyonight_duo&hide_border=true&locale=de">
 </center>
