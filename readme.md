@@ -3,16 +3,16 @@
         <img  src="https://discord.c99.nl/widget/theme-3/589898942527963157.png" style='padding: 5px;'>
 
 </p>
-<p align="center">
 # Languages
-</p>
+
+<p align="center">
 <div >
 <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"></a>
 <a href="https://www.lua.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40" alt="Kotlin"></a>
   <a href="ttps://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Kotlin"></a>
   <a href="https://kotlinlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" alt="Kotlin"></a>
 </div>
-
+</p>
 
 <hr></hr>
 <p align="center">
