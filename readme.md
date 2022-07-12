@@ -3,9 +3,9 @@
         <img  src="https://discord.c99.nl/widget/theme-3/589898942527963157.png" style='padding: 5px;'>
 
 </p>
-
+<p align="center">
 # Languages
-
+</p>
 <div >
 <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"></a>
 <a href="https://www.lua.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40" alt="Kotlin"></a>
