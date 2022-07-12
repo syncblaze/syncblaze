@@ -18,6 +18,6 @@
 <p align="center">
 <img width=500; src="http://github-readme-streak-stats.herokuapp.com?user=ChrissisCodeXD&theme=tokyonight_duo&hide_border=true&locale=de"></img>
 </p>
-<hr>
+
 <img width=500; src="https://github-readme-stats.vercel.app/api?username=ChrissisCodeXD&show_icons=true&hide=issues&icon_color=C9D1D9&hide_border=true&title_color=C9D1D9&bg_color=0D1117&theme=dark">
 <img width=500; src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrissisCodeXD&layout=compact&bg_color=0D1117&theme=dark">
