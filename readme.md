@@ -3,7 +3,7 @@
       <a href='https://discord.com/user/589898942527963157'>
         <img src="https://discord.c99.nl/widget/theme-3/589898942527963157.png" style='padding: 5px'>
       </a>
-    </center>
+</center>
 
 # Languages
 
