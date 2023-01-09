@@ -14,6 +14,7 @@
   <a href="ttps://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Kotlin"></a>
   <a href="https://kotlinlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" alt="Kotlin"></a>
 </p>
+I know way more langs but on github im kinda stuck on python lol
 </div>
 
 
