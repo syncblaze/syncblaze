@@ -1,6 +1,6 @@
-<h1 align="center"><pre>Chrissi | 変態#9999</pre></h1>
+<h1 align="center"><pre>Blaze | syncblaze</pre></h1>
 <p align="center">
-        <img  src="https://discord.c99.nl/widget/theme-3/589898942527963157.png" style='padding: 5px;'>
+        <img  src="https://discord.c99.nl/widget/theme-3/1190760564000030741.png" style='padding: 5px;'>
 
 </p>
 
