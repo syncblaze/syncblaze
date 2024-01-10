@@ -26,7 +26,7 @@
 
 <hr></hr>
 <p align="center">
-<img width=500; src="http://github-readme-streak-stats.herokuapp.com?user=syncblaze&theme=tokyonight_duo&hide_border=true&locale=de"></img>
+<img width=500; src="https://streak-stats.demolab.com/?user=syncblaze&theme=tokyonight_duo&hide_border=true&locale=de"></img>
 </p>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
