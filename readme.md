@@ -26,9 +26,6 @@
 
 <hr></hr>
 <p align="center">
-<img width=500; src="https://streak-stats.demolab.com/?user=syncblaze&theme=tokyonight_duo&hide_border=true&locale=de"></img>
-</p>
-<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height=168;  src="https://github-readme-stats.vercel.app/api?username=syncblaze&show_icons=true&hide=issues&icon_color=C9D1D9&hide_border=true&title_color=C9D1D9&bg_color=0D1117&theme=tokyonight_duo&hide_border=true"></img>
 </a>
